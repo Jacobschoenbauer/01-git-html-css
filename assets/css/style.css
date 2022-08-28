@@ -7,7 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/*change .header to heder*/
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -91,7 +91,7 @@ section {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/* added .benifits-brand .benifits-cost to get rid of extra css code*/
 .benefit-lead h3 .benefit-brand .benefit-cost {
   margin-bottom: 10px;
   text-align: center;
@@ -168,7 +168,7 @@ section {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/*change from .footer to footer when change html*/
 footer {
   padding: 30px;
   clear: both;
