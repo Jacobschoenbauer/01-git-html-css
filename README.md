@@ -7,17 +7,6 @@
 - Add alt to images
 - Change title to a descriptive one
 
-## Installation
+## website :
 
-n/a
-
-## Usage
-n/a
-
-## Credits
-
-n/a
-
-## License
-
-n/a
+## repository site :
