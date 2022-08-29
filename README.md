@@ -9,4 +9,4 @@
 
 ## website : https://jacobschoenbauer.github.io/01-git-html-css/
 
-## repository site :
+## repository site : https://github.com/Jacobschoenbauer/01-git-html-css
