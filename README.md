@@ -7,6 +7,6 @@
 - Add alt to images
 - Change title to a descriptive one
 
-## website :
+## website : https://jacobschoenbauer.github.io/01-git-html-css/
 
 ## repository site :
